@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Cadzilla</title>
-        <p> A simple CAD system for your FiveM Roleplay Community!</p>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -82,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Cadzilla
+                </div>
+                <div>
+                <p> A simple CAD system for your FiveM Roleplay Community!</p>
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://laravel.com/docs">Getting Started</a>
+                    <a href="https://laracasts.com">Docs</a>
+                    <a href="https://laravel-news.com">Updates</a>
                     <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
